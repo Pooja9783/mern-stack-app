@@ -1,0 +1,22 @@
+.login-container {
+    color: beige;
+
+    .text-center {
+        text-align: center;
+    }
+
+    .card {
+        .field {
+            width: 80%;
+            margin: 25px auto;
+        }
+
+        .login-button {
+            background: linear-gradient(#CBD3C1, #505250);
+            border-color: #CBD3C1;
+            width: 80%;
+            margin: auto;
+            display: flex;
+        }
+    }
+}
